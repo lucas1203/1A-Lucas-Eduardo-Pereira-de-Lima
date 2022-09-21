@@ -1,17 +1,40 @@
-p{
-   color: red;
-   font-size: 30;
-   text-align: left;
+.lista {
+color red;
+font-size: 30;
 }
+.imagens {
+text-align: center;
+background: black;
+}
+.listas {
+background: black;
+}
+.minhalista {
+color: blue;
+font-size: 40;
+}
+#destaque {
+border: 5px;
+border-style: solid;
+border-color: green;
+border-radius: 40;
+padding: 10px;
+margin-left: 400px;
+margin-right: 400px;
+background: yellow;
+}
+#imagem{
+text-align: center;
+border: 5px;
+border-style: solid;
+border-color: purple;
+border-top-left-radius: 40px;
+border-top-right-radius: 40px;
+border-bottom-left-radius: 40px;
+border-bottom-right-radius: 40px;
+padding: 10px;
+margin-left: 560px;
+margin-right: 560px;
+}
+#link {
 
-h1{
-   color: blue;
-   font-size: 50;
-   text-align: center;
-}
-
-h2{
-   color: green;
-   font-size: 40;
-   text-align: right;
-}
